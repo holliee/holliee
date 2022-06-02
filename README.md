@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Hollie. I've been a software engineer at Northrop Grumman since March 2022 and I currently am an MCIT student at UPenn. 
+
+I read a lot of scfi-fi and fantasy. I play a game now and then.
