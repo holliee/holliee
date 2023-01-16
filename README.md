@@ -19,4 +19,7 @@ I'm Hollie. I've been a software engineer at Northrop Grumman since March 2022 a
 I read a lot of scfi-fi and fantasy. I run marathons and ultra trail races. I play computer games now and then.
 
 [![Hollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=holliee&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holliee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holliee)](https://github.com/anuraghazra/github-readme-stats)
